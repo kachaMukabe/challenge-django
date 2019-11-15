@@ -6,7 +6,7 @@ Specifications are defined in [tests files](/app/api/tests.py)
 ## Database details 
 - [Users Model](/app/api/models.py)
 
-Settings can be modified [here](/app/settings.py)
+Settings can be modified [here](/app/app/settings.py)
 
 ## The goal of this challenge is to implement following API's
 - Create a basic login API with session
