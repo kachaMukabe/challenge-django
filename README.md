@@ -36,3 +36,6 @@ Settings can be modified [here](/app/app/settings.py)
 
 ## Bonus Task:
 If you feel you want to impress us more, replace the REST Framework by using Graphene instead.
+
+## Tip:
+We need someone that will be able to keep codebase and libraries used up-to-date
