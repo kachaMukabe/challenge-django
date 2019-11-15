@@ -3,7 +3,7 @@
 Implement RESTful API's in Django framework to pass the tests.
 Specifications are defined in [tests files](/app/api/tests.py)
 
-## 2. Submit your challenge
+## Submit your challenge
 
 Follow these instructions to submit your challenge.
 
@@ -33,3 +33,6 @@ Settings can be modified [here](/app/app/settings.py)
 - Personal notes or problems
 - Information on how your code works
 - Any suggestions on what should be changed in the specifications.
+
+## Bonus Task:
+If you feel you want to impress us more, replace the REST Framework by using Graphene instead.
