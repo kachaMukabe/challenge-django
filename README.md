@@ -3,6 +3,16 @@
 Implement RESTful API's in Django framework to pass the tests.
 Specifications are defined in [tests files](/app/api/tests.py)
 
+## 2. Submit your challenge
+
+Follow these instructions to submit your challenge.
+
+    Setup your Development Environment (React Native - Getting Started guide)
+    Fork the Challenge Repository
+    Write your Code
+    Commit/push your Changes
+    Please email link to your public repo to the point of contact that sent link to this challenge.
+    
 ## Database details 
 - [Users Model](/app/api/models.py)
 
