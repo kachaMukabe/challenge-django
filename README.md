@@ -10,6 +10,7 @@ Follow these instructions to submit your challenge.
     Setup your Development Environment (React Native - Getting Started guide)
     Fork the Challenge Repository
     Write your Code
+    Update your read.me with instructions to run your soultion and anything unique you want people assessing you to pay attention to
     Commit/push your Changes
     Please email link to your public repo to the point of contact that sent link to this challenge.
     
@@ -35,7 +36,8 @@ Settings can be modified [here](/app/app/settings.py)
 - Any suggestions on what should be changed in the specifications.
 
 ## Bonus Task:
-If you feel you want to impress us more, replace the REST Framework by using Graphene instead.
+If you feel you want to impress us more, replace the REST Framework by using Graphene (GraphQL for Python) instead.
 
 ## Tip:
-We need someone that will be able to keep codebase and libraries used up-to-date
+We need someone that will be able to keep codebase and libraries used up-to-date and thinks outside the box.
+
