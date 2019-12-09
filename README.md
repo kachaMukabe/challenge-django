@@ -7,7 +7,6 @@ Specifications are defined in [tests files](/app/api/tests.py)
 
 Follow these instructions to submit your challenge.
 
-    Setup your Development Environment (React Native - Getting Started guide)
     Fork the Challenge Repository
     Write your Code
     Update your read.me with instructions to run your soultion and anything unique you want people assessing you to pay attention to
