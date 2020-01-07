@@ -1,6 +1,5 @@
 from django.contrib import admin
+from api.models import UserProfile, Followers
 
-# Register your models here.
-from .models import Users
-
-admin.site.register(Users)
+admin.site.register(UserProfile)
+admin.site.register(Followers)
